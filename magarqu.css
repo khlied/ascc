@@ -627,7 +627,7 @@
 }
 
 .u-section-3 .u-group-1 {
-  width: 329px;
+  width: 206px;
   min-height: 89px;
   height: auto;
   margin: 8px auto;
@@ -636,9 +636,9 @@
 .u-section-3 .u-social-icons-1 {
   height: 35px;
   min-height: 16px;
-  width: 145px;
-  min-width: 88px;
-  margin: 0 auto;
+  width: 125px;
+  min-width: 68px;
+  margin: 11px auto 0;
 }
 
 .u-section-3 .u-icon-3 {
@@ -647,7 +647,6 @@
 
 .u-section-3 .u-text-1 {
   font-size: 0.9375rem;
-  width: 235px;
   margin: 8px auto 0;
 }
 
@@ -656,7 +655,7 @@
     height: auto;
   }
 
-  .u-section-3 .u-social-icons-1 {
-    width: 146px;
+  .u-section-3 .u-text-1 {
+    width: 235px;
   }
 }
