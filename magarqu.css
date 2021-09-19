@@ -623,14 +623,14 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 105px;
+  min-height: 129px;
 }
 
 .u-section-3 .u-group-1 {
   width: 206px;
-  min-height: 89px;
+  min-height: 102px;
   height: auto;
-  margin: 8px auto;
+  margin: 8px auto 19px;
 }
 
 .u-section-3 .u-social-icons-1 {
@@ -647,7 +647,7 @@
 
 .u-section-3 .u-text-1 {
   font-size: 0.9375rem;
-  margin: 8px auto 0;
+  margin: 21px 0 0;
 }
 
 @media (max-width: 1199px) {
